@@ -1,0 +1,6 @@
+name: Mini_npc
+version: '${project.version}'
+main: com.ruserious99.mini_npc.Mini_npc
+api-version: 1.18
+authors: [ RuSerious99 ]
+description: npcs for mini game
